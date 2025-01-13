@@ -1,0 +1,15 @@
+#text{
+  padding: 30px;
+  margin-right: 200px;
+margin-left: 200px;
+}
+.from-control{
+  width: 700px;
+}
+
+.list-group-item{
+  display: flex;
+  justify-content: space-between;
+ 
+  
+}
